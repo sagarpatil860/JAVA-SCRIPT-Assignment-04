@@ -1,0 +1,43 @@
+.colorproperty {
+    display: block;
+    height: 400px;
+    width: 600px;
+    align-items: center;
+    margin: auto;
+    margin-top: 5%;
+    background-color: rgb(160, 95, 149);
+}
+.maindiv{
+    display:block;
+    height: 150px;
+    width: 400px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 2%;
+    background-color: rgb(95, 118, 160);
+    
+
+}
+h3{
+    text-align: center;  
+}
+.output{
+    display: block;
+    align-items: center;
+}
+.messageproperty{
+   
+    align-items: center;
+}
+
+.buttonproperty {
+    margin: auto;
+}
+p{
+    font-family: cursive;
+    font-size: x-large;
+    color: darkorange;
+    text-align: center;
+    
+}
